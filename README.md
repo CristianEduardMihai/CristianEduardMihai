@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @MihaiCristianAlphaTeam
+- 👀 I’m interested in linux, python and discord bots.
