@@ -8,9 +8,9 @@
 - Bash
 
 ## 🌍Languages I speak
-- English
-- Romanian
-- Russian (still working on it)
+- English🇺🇸🇬🇧
+- Romanian🇷🇴
+- Russian🇷🇺
 
 ### 📫 How to contact me:
 - Instagram: [mihai_christia.n](https://www.instagram.com/mihai_christia.n/)
