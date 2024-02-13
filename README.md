@@ -1,6 +1,4 @@
 ## Hi ! I'm Cristian Mihai
-### A guy who codes to combat boredom
-
 
 ## Programming languages I know:
 - Python
