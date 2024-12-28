@@ -1,10 +1,5 @@
 ## Hi ! I'm Cristian Mihai
 
-## Programming languages I know:
-- Python
-- Dockerfile
-- Bash
-
 ## 🌍Languages I speak
 - English🇺🇸🇬🇧
 - Romanian🇷🇴
